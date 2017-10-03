@@ -3,53 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://offense360.github.io/2017/10/welcome-markdown/</loc>
+    <loc>https://offense360.github.io/2017/10/welcome-markdown/</loc>
     <lastmod>2017-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://offense360.github.io/archives/</loc>
+    <loc>https://offense360.github.io/archives/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://offense360.github.io/categories/article/</loc>
-    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://offense360.github.io/categories/</loc>
+    <loc>https://offense360.github.io/categories/article/</loc>
     <lastmod>2017-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://offense360.github.io/tags/documation/</loc>
+    <loc>https://offense360.github.io/categories/</loc>
     <lastmod>2017-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://offense360.github.io/tags/markdown/</loc>
+    <loc>https://offense360.github.io/tags/documation/</loc>
     <lastmod>2017-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://offense360.github.io/</loc>
+    <loc>https://offense360.github.io/tags/markdown/</loc>
     <lastmod>2017-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://offense360.github.io/post/</loc>
+    <loc>https://offense360.github.io/</loc>
     <lastmod>2017-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://offense360.github.io/tags/</loc>
+    <loc>https://offense360.github.io/post/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://offense360.github.io/tags/</loc>
     <lastmod>2017-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
