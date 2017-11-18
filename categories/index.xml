@@ -6,17 +6,53 @@
     <description>Recent content in Categories on Offense 360</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-KR</language>
-    <lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Oct 2017 01:19:04 +0900</lastBuildDate>
     
 	<atom:link href="https://offense360.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Architecture</title>
+      <link>https://offense360.github.io/categories/architecture/</link>
+      <pubDate>Wed, 11 Oct 2017 01:19:04 +0900</pubDate>
+      
+      <guid>https://offense360.github.io/categories/architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Article</title>
       <link>https://offense360.github.io/categories/article/</link>
-      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 19 Nov 2017 01:19:04 +0900</pubDate>
       
       <guid>https://offense360.github.io/categories/article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Release</title>
+      <link>https://offense360.github.io/categories/release/</link>
+      <pubDate>Fri, 06 Oct 2017 01:06:55 +0900</pubDate>
+      
+      <guid>https://offense360.github.io/categories/release/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Security</title>
+      <link>https://offense360.github.io/categories/security/</link>
+      <pubDate>Fri, 06 Oct 2017 01:06:55 +0900</pubDate>
+      
+      <guid>https://offense360.github.io/categories/security/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Splunk</title>
+      <link>https://offense360.github.io/categories/splunk/</link>
+      <pubDate>Wed, 11 Oct 2017 01:19:04 +0900</pubDate>
+      
+      <guid>https://offense360.github.io/categories/splunk/</guid>
       <description></description>
     </item>
     
