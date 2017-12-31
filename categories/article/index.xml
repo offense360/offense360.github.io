@@ -6,10 +6,27 @@
     <description>Recent content in Article on Offense 360</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko-KR</language>
-    <lastBuildDate>Sun, 19 Nov 2017 01:19:04 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2018 01:43:58 +0900</lastBuildDate>
     
 	<atom:link href="https://offense360.github.io/categories/article/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>File Integrity checks found files for splunk</title>
+      <link>https://offense360.github.io/2018/01/file-integrity-checks-found-files-for-splunk/</link>
+      <pubDate>Mon, 01 Jan 2018 01:43:58 +0900</pubDate>
+      
+      <guid>https://offense360.github.io/2018/01/file-integrity-checks-found-files-for-splunk/</guid>
+      <description>File Integrity checks found 1 files that did not match the system-provided manifest. See splunkd.log for details.
+갑자기 다가온 알수 없는 오류&amp;hellip;먼가가 안맞단다&amp;hellip;
+원인을 찾아보자
+Solution1.
+SHC에서
+https://[SPLUNK SHC]:8089/services/server/status//installed-file-integrity  Solution2.
+cd $SPLUNK_HOME/bin  ./splunk validate files  문제가 되는 파일을 확인할수 있다.
+이유는 다양하니 해결책은 알맞게&amp;hellip;.
+./splunk restart  그리고 SHC에서 스플렁크를 재시작하면 해당 문구가 사라지는걸 볼수 있다.</description>
+    </item>
     
     <item>
       <title>System restart required</title>
